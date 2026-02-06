@@ -46,7 +46,7 @@ This project demonstrates these concepts using affordable hardware and open-sour
 ## 🎥 Demo Video
 
 📺 See the system in action:  
-`media/videos/adcs_demo.mp4`
+(https://drive.google.com/file/d/1mISNQEOxZ7tKSKUyxMSpjmxQgxqM4dl1/view?usp=drivesdk)
 
 ---
 
